@@ -1,0 +1,15 @@
+{
+  "name": "serverless2-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serverless": "^2.54.0",
+    "serverless-rollup-plugin": "^2.2.1"
+  }
+}
