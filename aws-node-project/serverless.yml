@@ -1,7 +1,6 @@
 service: aws-node-project
 
-frameworkVersion: '2'
-
+frameworkVersion: '3'
 
 plugins:
   - serverless-rollup-plugin

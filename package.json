@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "serverless": "^2.54.0",
-    "serverless-rollup-plugin": "^2.2.1"
+    "serverless": "^3.0.1",
+    "serverless-rollup-plugin": "^2.3.0"
   }
 }
